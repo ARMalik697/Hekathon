@@ -1,0 +1,137 @@
+#colabtalk {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    position: relative;
+    right: 90px;
+    bottom: 21px;
+}
+
+.span {
+    color: #E53536;
+}
+
+#logo2 {
+    width: 100.37px;
+    height: 80.86px;
+    position: relative;
+    right: 50px;
+}
+
+#ul-head {
+    width: 240px;
+    height: 24px;
+    position: relative;
+    bottom: 22px;
+    left: 630px;
+}
+
+#Signup {
+    color: #F55253;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    font-family: font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+#about{
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+size: 16px;
+
+}
+#contact{
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+size: 16px;
+line-height: 24px;
+}
+#faster{
+    border-radius: 23px;
+    line-height: 24px;
+    background-color: #FDECEC;
+    border: 0;
+    height: 46px;
+    width: 222px;
+}
+#ai{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'roboto' , sans-serif;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 70px;
+    letter-spacing: 0.5%;
+
+}
+.aai{
+    color: #F55253;
+}
+#generate{
+   width: 478px;
+   height: 60px;
+   top: 549;
+   left: 135;
+   font: 'Poppins';
+   font-weight: 400;
+   size: 18px;
+   line-height: 30px;
+   letter-spacing: 0.5%;
+}
+#try{
+    width: 186px;
+    height: 70px;
+    top: 669px;
+    left: 135px;
+    radius: 12px;
+    color: #E53536;
+
+}
+.how{
+    text-align: center;
+    color: #E53536;
+    font-size: large;
+    padding-top: 100px;
+
+}
+.bll{
+    text-align: center;   
+    
+}
+.card-body{
+    position: relative;
+    size: 30px;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+#script{
+    background-color:#fdecec;
+    border-radius: 8px;
+    border: none;
+
+}
+:placeholder-shown{
+    padding-left: 30px;
+    
+}
+#validationTooltip02{
+    background-color:#fdecec;
+    width: 206px;
+    height: 57px;
+    top: 1428px;
+    left: 264px;
+    border-radius: 23px;
+    padding-left: 30px;
+
+}
+.form-label{
+    padding-left: 30px;
+}
+.form-control{
+    padding-left: 30px;
+}
